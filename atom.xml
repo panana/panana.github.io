@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://panana.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-07T13:01:41.832Z</updated>
+    <updated>2020-09-07T13:03:43.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://panana.github.io"/>
     <link rel="self" href="https://panana.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2020-09-07T12:35:56.000Z</updated>
         <content type="html"><![CDATA[<p>测试测试<br>
-<img src="http://qgaglpmi0.bkt.clouddn.com/images/cayleecowan_84145645_1129143197424260_7796637030052134376_n.jpg" alt="" loading="lazy"></p>
+<img src="http:/qgaglpmi0.bkt.clouddn.com/images/cayleecowan_70270883_381400862753458_2135570999398068935_n.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
